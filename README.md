@@ -24,7 +24,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you have any questions or would like to connect, feel free to reach out to me:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ajay-kumar-029710129/)
+- **Email:** ajay97kumarr@gmail.com
 
 Happy coding!
